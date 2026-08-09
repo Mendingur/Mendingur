@@ -15,7 +15,7 @@
 
 ### 👋 Xin chào
 
-Mình là **Nguyễn Duy Anh**, bút danh **Mendingur** - hiện ở thành phố Hồ Chí Minh. Mình dành phần lớn thời gian để viết, làm nhạc, và vọc vạch thiết kế - thích tự tay đi từ ý tưởng đến sản phẩm hoàn chỉnh, dù là một chương truyện, một bài hát, hay một trang web. Gần đây mình cũng bắt đầu tìm hiểu sâu hơn về CNTT, vì tò mò muốn hiểu rõ hơn phần "hạ tầng" phía sau những gì mình làm.
+Mình là **[Nguyễn Duy Anh](https://mendingur.github.io/)**, bút danh **[Mendingur](https://mendingur.github.io/)** - hiện ở thành phố Hồ Chí Minh. Mình dành phần lớn thời gian để viết, làm nhạc, và vọc vạch thiết kế - thích tự tay đi từ ý tưởng đến sản phẩm hoàn chỉnh, dù là một chương truyện, một bài hát, hay một trang web. Gần đây mình cũng bắt đầu tìm hiểu sâu hơn về CNTT, vì tò mò muốn hiểu rõ hơn phần "hạ tầng" phía sau những gì mình làm.
 
 Repo này là nơi mình gom lại các dự án của mình - chủ yếu là sáng tác, nhưng cũng sẽ có thêm những thử nghiệm kỹ thuật nho nhỏ theo thời gian.
 
