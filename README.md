@@ -36,7 +36,7 @@ Repo này là nơi mình gom lại các dự án của mình - chủ yếu là s
 <tr>
 <td><b>I</b></td>
 <td>Khúc Ca Hy Vọng <sub>· Anthem of Hope</sub></td>
-<td>✅ Hoàn thành · 25 chương - <a href="https://github.com/Mendingur/anthemofhope"><b>Đọc ngay →</b></a></td>
+<td>✅ Hoàn thành · 25 chương - <a href="https://mendingur.github.io/anthemofhope/"><b>Đọc ngay →</b></a></td>
 </tr>
 <tr>
 <td><b>II</b></td>
