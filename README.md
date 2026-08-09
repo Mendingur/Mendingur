@@ -15,7 +15,7 @@
 
 ### 👋 Xin chào
 
-Mình là **Nguyễn Duy Anh**, bút danh **Mendingur** — hiện ở Vũng Tàu. Mình dành phần lớn thời gian để viết, làm nhạc, và vọc vạch thiết kế — thích tự tay đi từ ý tưởng đến sản phẩm hoàn chỉnh, dù là một chương truyện, một bài hát, hay một trang web. Gần đây mình cũng bắt đầu tìm hiểu sâu hơn về CNTT, vì tò mò muốn hiểu rõ hơn phần "hạ tầng" phía sau những gì mình làm.
+Mình là **Nguyễn Duy Anh**, bút danh **Mendingur** - hiện ở Hồ Chí Minh. Mình dành phần lớn thời gian để viết, làm nhạc, và vọc vạch thiết kế - thích tự tay đi từ ý tưởng đến sản phẩm hoàn chỉnh, dù là một chương truyện, một bài hát, hay một trang web. Gần đây mình cũng bắt đầu tìm hiểu sâu hơn về CNTT, vì tò mò muốn hiểu rõ hơn phần "hạ tầng" phía sau những gì mình làm.
 
 Repo này là nơi mình gom lại các dự án của mình — chủ yếu là sáng tác, nhưng cũng sẽ có thêm những thử nghiệm kỹ thuật nho nhỏ theo thời gian.
 
@@ -23,7 +23,7 @@ Repo này là nơi mình gom lại các dự án của mình — chủ yếu là
 
 ## ✍️ Tác phẩm
 
-**Vòng Tuần Hoàn Người Gieo Hạt** <sub>· The Sower's Cycle</sub> — một bộ trường ca hậu tận thế lấy bối cảnh năm 2054, khi thế giới cũ sụp đổ dưới ba làn sóng chiến tranh. Giữa tro tàn, một cô gái mang theo lời hứa gieo hạt của bà ngoại tình cờ chạm vào bí mật có thể thay đổi vận mệnh nhân loại.
+**Vòng Tuần Hoàn Người Gieo Hạt** <sub>· The Sower's Cycle</sub> - một bộ trường ca hậu tận thế lấy bối cảnh năm 2054, khi thế giới cũ sụp đổ dưới ba làn sóng chiến tranh. Giữa tro tàn, một cô gái mang theo lời hứa gieo hạt của bà ngoại tình cờ chạm vào bí mật có thể thay đổi vận mệnh nhân loại.
 
 **[→ Vào trang tổng hợp cả bộ 3](https://github.com/Mendingur/thesowerscycle)**
 
@@ -56,7 +56,7 @@ Repo này là nơi mình gom lại các dự án của mình — chủ yếu là
 
 - 📖 Bản thảo gốc ~52.000 chữ, tổ chức theo 6 Phần · 12 Tập · 25 Chương · 2 Xen kẽ
 - 🎨 Bộ nhận diện thương hiệu riêng (biểu tượng, bảng màu, hệ thống chữ) thiết kế từ đầu
-- 💻 Nền tảng đọc tự dựng — HTML/CSS thuần, không phụ thuộc nền tảng bên thứ ba, tối ưu cho di động, có thanh tiến trình đọc và tuỳ chỉnh cỡ chữ
+- 💻 Nền tảng đọc tự dựng - HTML/CSS thuần, không phụ thuộc nền tảng bên thứ ba, tối ưu cho di động, có thanh tiến trình đọc và tuỳ chỉnh cỡ chữ
 - 🗂️ Toàn bộ hạ tầng lưu trữ & vận hành trên GitHub Pages
 
 </details>
@@ -71,7 +71,7 @@ Sáng tác và phát hành nhạc dưới cùng bút danh **Mendingur**, đôi k
 
 ## 🎯 Đang ấp ủ
 
-Chuyển thể **Vòng Tuần Hoàn Người Gieo Hạt** thành một dự án game — lấy cảm hứng thẩm mỹ từ Genshin Impact, Honkai: Star Rail và Wuthering Waves. Bộ nhận diện hiện tại (biểu tượng, bảng màu) đã được thiết kế sẵn theo đúng hướng này, chuẩn bị cho bước đi xa hơn của cả vũ trụ truyện.
+Chuyển thể **Vòng Tuần Hoàn Người Gieo Hạt** thành một dự án game - lấy cảm hứng thẩm mỹ từ Genshin Impact, Honkai: Star Rail và Wuthering Waves. Bộ nhận diện hiện tại (biểu tượng, bảng màu) đã được thiết kế sẵn theo đúng hướng này, chuẩn bị cho bước đi xa hơn của cả vũ trụ truyện.
 
 <br/>
 
@@ -82,7 +82,7 @@ Chuyển thể **Vòng Tuần Hoàn Người Gieo Hạt** thành một dự án 
 <br/>
 
 <div align="center">
-<sub><i>"Giữa tro tàn, vẫn kiên tâm vun xới không ngừng."</i> — Khúc Ca Hy Vọng</sub>
+<sub><i>"Giữa tro tàn, vẫn kiên tâm vun xới không ngừng."</i> - Khúc Ca Hy Vọng</sub>
 
 <br/><br/>
 
