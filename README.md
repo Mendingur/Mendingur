@@ -25,7 +25,7 @@ Repo này là nơi mình gom lại các dự án của mình - chủ yếu là s
 
 **Vòng Tuần Hoàn Người Gieo Hạt** <sub>· The Sower's Cycle</sub> - một bộ trường ca hậu tận thế lấy bối cảnh năm 2054, khi thế giới cũ sụp đổ dưới ba làn sóng chiến tranh. Giữa tro tàn, một cô gái mang theo lời hứa gieo hạt của bà ngoại tình cờ chạm vào bí mật có thể thay đổi vận mệnh nhân loại.
 
-**[→ Vào trang tổng hợp cả bộ 3](https://github.com/Mendingur/thesowerscycle)**
+**[→ Vào trang tổng hợp cả bộ 3](https://mendingur.github.io/thesowerscycle/)**
 
 <table>
 <tr>
